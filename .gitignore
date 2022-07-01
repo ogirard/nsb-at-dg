@@ -337,3 +337,7 @@ test/results/
 appsettings.user.json
 
 .learningtransport/
+.db/
+.audit-db/
+.logs
+nugets
